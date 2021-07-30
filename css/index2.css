@@ -1,0 +1,20 @@
+*{
+    font-family: 'Gowun Dodum', sans-serif;
+}
+.gridimg{
+  height: 40vh;
+  width: 50vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#text-area {
+    background-color: transparent;
+    color: white;
+    height: 130px;
+}
+.input-background {
+    background-color: transparent;
+}
+.img {
+    width: 100%
